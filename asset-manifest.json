@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farewellquiz/static/css/main.bc31f057.chunk.css",
+    "main.js": "/farewellquiz/static/js/main.9f0bf0c1.chunk.js",
+    "main.js.map": "/farewellquiz/static/js/main.9f0bf0c1.chunk.js.map",
+    "runtime-main.js": "/farewellquiz/static/js/runtime-main.2dc2903a.js",
+    "runtime-main.js.map": "/farewellquiz/static/js/runtime-main.2dc2903a.js.map",
+    "static/js/2.507c5705.chunk.js": "/farewellquiz/static/js/2.507c5705.chunk.js",
+    "static/js/2.507c5705.chunk.js.map": "/farewellquiz/static/js/2.507c5705.chunk.js.map",
+    "index.html": "/farewellquiz/index.html",
+    "precache-manifest.cfca44d6d48e6d38499099e904b41e90.js": "/farewellquiz/precache-manifest.cfca44d6d48e6d38499099e904b41e90.js",
+    "service-worker.js": "/farewellquiz/service-worker.js",
+    "static/css/main.bc31f057.chunk.css.map": "/farewellquiz/static/css/main.bc31f057.chunk.css.map",
+    "static/js/2.507c5705.chunk.js.LICENSE.txt": "/farewellquiz/static/js/2.507c5705.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dc2903a.js",
+    "static/js/2.507c5705.chunk.js",
+    "static/css/main.bc31f057.chunk.css",
+    "static/js/main.9f0bf0c1.chunk.js"
+  ]
+}
